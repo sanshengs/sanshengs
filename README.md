@@ -32,16 +32,16 @@ You can click the Preview link to take a look at your changes.
 
   <summary>📊 Top Languages</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanshengs&layout=compact" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanshengs&theme=onedark&layout=compact" alt="Top Langs">
 
 
 ---
 <!---
 <details>
 --->
-  <summary>📊 sanshengs's GitHub Stats</summary>
+  <summary>📊GitHub Stats</summary>
   <br>
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sanshengs&show_icons=true"/>
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sanshengs&count_private=true&show_icons=true&theme=onedark"/>
   <!---
 </details>
 --->
