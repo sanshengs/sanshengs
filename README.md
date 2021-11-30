@@ -7,7 +7,7 @@
 <!---
 sanshengs/sanshengs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 ---
 
 ### Tools & Languages
@@ -31,16 +31,18 @@ You can click the Preview link to take a look at your changes.
 
 
   <summary>📊 Top Languages</summary>
-  <br>
+  
+  <br>--->
+  --- 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanshengs&theme=onedark&layout=compact" alt="Top Langs">
 
 
 ---
 <!---
 <details>
---->
+
   <summary>📊GitHub Stats</summary>
-  <br>
+  <br>--->
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sanshengs&count_private=true&show_icons=true&theme=onedark"/>
   <!---
 </details>
